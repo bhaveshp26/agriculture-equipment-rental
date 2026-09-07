@@ -1,0 +1,22 @@
+# Environment / secrets
+.env
+*.env
+
+# Dependencies
+vendor/
+node_modules/
+
+# Logs
+*.log
+
+# Local database/config files
+config/
+connection.php
+
+# Uploaded/generated user files
+owner-photo/
+tenant-photo/
+
+# OS files
+.DS_Store
+Thumbs.db
